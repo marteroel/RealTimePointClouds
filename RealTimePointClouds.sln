@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{845A01E2-0281-7396-FA8F-B8B5600A008C}") = "RealTimePointClouds", "Assembly-CSharp-firstpass.csproj", "{B9D9F0B5-61C4-EDC3-5F5A-F885BFFCCBFE}"
+EndProject
+Project("{845A01E2-0281-7396-FA8F-B8B5600A008C}") = "RealTimePointClouds", "Assembly-CSharp-Editor-firstpass.csproj", "{2D24CF43-B0FD-159A-5B8E-AAC69924F6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D9F0B5-61C4-EDC3-5F5A-F885BFFCCBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D9F0B5-61C4-EDC3-5F5A-F885BFFCCBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D9F0B5-61C4-EDC3-5F5A-F885BFFCCBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D9F0B5-61C4-EDC3-5F5A-F885BFFCCBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D24CF43-B0FD-159A-5B8E-AAC69924F6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D24CF43-B0FD-159A-5B8E-AAC69924F6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D24CF43-B0FD-159A-5B8E-AAC69924F6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D24CF43-B0FD-159A-5B8E-AAC69924F6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

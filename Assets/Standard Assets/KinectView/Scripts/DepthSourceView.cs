@@ -90,7 +90,8 @@ public class DepthSourceView : MonoBehaviour
         _Mesh.vertices = _Vertices;
         _Mesh.uv = _UV;
         _Mesh.triangles = _Triangles;
-        _Mesh.RecalculateNormals();
+		_Mesh.SetIndices(_Triangles, MeshTopology.Points, 0); /////////////////SON LOS PUNTITOS
+        //_Mesh.RecalculateNormals();
     }
     
     void OnGUI()
@@ -208,7 +209,8 @@ public class DepthSourceView : MonoBehaviour
         _Mesh.vertices = _Vertices;
         _Mesh.uv = _UV;
         _Mesh.triangles = _Triangles;
-        _Mesh.RecalculateNormals();
+		_Mesh.SetIndices(_Triangles, MeshTopology.Points, 0); /////////////////SON LOS PUNTITOS
+        //_Mesh.RecalculateNormals();
     }
     
     private double GetAvg(ushort[] depthData, int x, int y, int width, int height)

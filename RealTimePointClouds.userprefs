@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\KinectView\Scripts\DepthSourceView.cs">
+    <Files>
+      <File FileName="..\..\Unity\PC tests\old\Kinect2 examples\Assets\KinectDemos\VariousDemos\Scripts\UserMeshVisualizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\KinectView\Scripts\DepthSourceView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
